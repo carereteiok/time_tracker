@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "701227127062",
+    "project_id": "time-tracker-mock",
+    "storage_bucket": "time-tracker-mock.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701227127062:android:4aec715706ea000b92c037",
+        "android_client_info": {
+          "package_name": "com.example.time_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "701227127062-bd1vvgvq7h9kq2vodevb4puh5p64u7pd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.time_tracker",
+            "certificate_hash": "52be1f4eef20d4c5b5248cb99fa59b90b054a0bf"
+          }
+        },
+        {
+          "client_id": "701227127062-2g1mgj7is3b1po97nkmjiqj3vpc4466n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5O9Vf2jcdWKp1WGVOulSpvqOltcKZ8xY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "701227127062-2g1mgj7is3b1po97nkmjiqj3vpc4466n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
